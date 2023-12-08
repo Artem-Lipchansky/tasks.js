@@ -9,11 +9,11 @@
 
 
 
-// if (6 > 8) {
-//     console.log('6 > 8');
-// } else if (value > 6) {
-//     console.log(object);
-// }
+if (6 > 8) {
+    console.log('6 > 8');
+} else if (value > 6) {
+    console.log(object);
+}
 
 
 const value = 4
