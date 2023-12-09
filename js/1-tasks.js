@@ -1,11 +1,11 @@
-// if (3 > 7) {
-    
-//     console.log('true');
+if (3 > 7) {
 
-// } else {
-// console.log('false');
+    console.log('true');
 
-// }
+} else {
+    console.log('false');
+
+}
 
 
 
@@ -28,6 +28,6 @@ if (value > 5) {
     console.log('4>3');
 
     console.log('else');
-    
+
 }
 
